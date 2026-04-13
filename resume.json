@@ -9,7 +9,7 @@
         "aboutme": "个人评价"
       },
       "avatar": {
-        "src": "https://www.zhongfw.online/align-minio/avatar/mmexport1744978310172.jpeg",
+        "src": "https://www.zhongfw.online/align-minio/avatar/证件照-白底.png",
         "hidden": false
       },
       "profile": {
@@ -123,7 +123,7 @@
           "project_time": "2024.11 - 2025.12",
           "project_name": "融媒体管理平台-融媒体编辑器(jquery/React)",
           "project_role": "主要开发",
-          "project_desc": "内容产生：需求源自融媒体的微信文章编辑功能，基于ueditor/lexical实现的富文本编辑器，支持音视频、pdf、word等媒体文件插入继承。支持内容节点定制及工具栏功能扩展。\n流程审核：通过扩展支持审核流程定制，审核人权限定制(如修订和发布)，实现多版本记录及回退。\n资源管理：通过扩展支持了类似微信的封面/配图管理功能。",
+          "project_desc": "内容产生：需求源自融媒体的微信文章编辑功能，基于ueditor/lexical实现的富文本编辑器，支持音视频、pdf、word等媒体文件插入预览。支持内容节点定制及工具栏功能扩展。\n流程审核：通过扩展支持审核流程定制，审核人权限定制(如修订和发布)，实现多版本记录及回退。\n资源管理：通过扩展支持了类似微信的封面/配图管理功能。",
           "project_content": "1.扩展内容节点：设计节点数据结构并完成节点内容开发，例如用于展示相册的画廊节点，功能增强的超链接节点。\n2.设计文档数据转换规范（ueditor-html to lexical-html）并完成数据转换的核心功能。",
           "dataIndex": 1
         },
