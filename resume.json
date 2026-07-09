@@ -1,183 +1,159 @@
 {
-      "titleNameMap": {
-        "educationList": "教育背景",
-        "workExpList": "工作经历",
-        "projectList": "项目经验",
-        "skillList": "个人技能",
-        "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "个人评价"
-      },
-      "avatar": {
-        "src": "https://www.zhongfw.online/align-minio/avatar/证件照-白底.png",
-        "hidden": false
-      },
-      "profile": {
-        "name": "仲峰位",
-        "email": "1739174050@qq.com",
-        "mobile": "15051004949",
-        "github": "https://github.com/ZhongFarewell",
-        "zhihu": "https://gitee.com/aligns",
-        "workExpYear": "5年",
-        "workPlace": "江苏南京",
-        "positionTitle": "前端开发工程师"
-      },
-      "educationList": [
-        {
-          "edu_time": [
-            "2017.09.01",
-            "2021.06.30"
-          ],
-          "school": "商丘师范学院",
-          "major": "电子信息工程",
-          "academic_degree": "本科",
-          "dataIndex": 0
-        }
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": {
+    "src": "https://www.zhongfw.online/align-minio/avatar/证件照-白底.png",
+    "hidden": false
+  },
+  "profile": {
+    "name": "仲峰位",
+    "email": "1739174050@qq.com",
+    "mobile": "15051004949",
+    "github": "https://github.com/ZhongFarewell",
+    "zhihu": "https://gitee.com/aligns",
+    "workExpYear": "5年",
+    "workPlace": "江苏南京",
+    "positionTitle": "高级前端开发工程师"
+  },
+  "educationList": [
+    {
+      "edu_time": [
+        "2017.09.01",
+        "2021.06.30"
       ],
-      "awardList": [
-        {
-          "award_info": "英语 CET4",
-          "award_time": "2020",
-          "dataIndex": 0
-        },
-        {
-          "award_time": "2020",
-          "award_info": "商丘个人优秀志愿者",
-          "dataIndex": 1
-        },
-        {
-          "award_time": "2021",
-          "award_info": "商丘师范学院三好学生",
-          "dataIndex": 2
-        }
-      ],
-      "workExpList": [
-        {
-          "company_name": "苏迪科技有限公司",
-          "department_name": "研发部门",
-          "work_time": [
-            "2023.5",
-            "2026.4"
-          ],
-          "work_desc": "1. coreplus部门：作为前端工程师参与公司低代码平台Coreplus2的开发工作，例如低代码通用组件的设计及开发；作为主要开发负责万能表单项目的开发和迭代工作。\n2.网站群部门：独立完成重点项目AI智能搜索项目的开发，同时协调完成网站群校园融媒体发布管理平台，网站群富文本编辑器，各类B/S后台管理系统等前端开发工作。",
-          "dataIndex": 0
-        },
-        {
-          "company_name": "永中软件股份有限公司",
-          "department_name": "wo4.x产品部",
-          "work_time": [
-            "2021.05",
-            "2023.03"
-          ],
-          "work_desc": "前端开发工程师。参与公司主营项目web office4.x编辑器的开发工作，同时通过分析竟品，研究微软文档对项目迭代所需要的功能与规格进行评估。制定产品功能及规范。",
-          "dataIndex": 1
-        }
-      ],
-      "skillList": [
-        {
-          "skill_name": "css",
-          "skill_level": 100,
-          "skill_desc": "熟练使用css/html及浏览器dom，bom对象，熟悉常用样式方案例如：css in js、less/sass、module style。",
-          "dataIndex": 0
-        },
-        {
-          "skill_name": "javascript/typescript",
-          "skill_level": 100,
-          "skill_desc": "掌握Typescript/javascript编程语言，具备面向对象和函数式编程思维。"
-        },
-        {
-          "skill_name": "React",
-          "skill_level": 100,
-          "skill_desc": "熟练使用React 框架，熟悉React相关生态工具的使用，例如ant-design系列、mui-systom、tailwind css框架、ahook、图表等。",
-          "dataIndex": 2
-        },
-        {
-          "skill_name": "webpack",
-          "skill_level": 80,
-          "skill_desc": "熟悉webpack构建工具，熟悉前端工程化流程，理解并能使用常见构建方案如：SPA、SSR、CSR。",
-          "dataIndex": 3
-        },
-        {
-          "skill_name": "nodejs",
-          "skill_level": 70,
-          "skill_desc": "熟练异步编程，有node.js，egg.js开发及部署经验。",
-          "dataIndex": 4
-        },
-        {
-          "skill_name": "运维",
-          "skill_level": 80,
-          "skill_desc": "能够使用常见部署工具，如Tabby、Win-Scp、Docker、Nginx、Mongodb、Redis等。",
-          "dataIndex": 5
-        }
-      ],
-      "projectList": [
-        {
-          "project_time": "2025.09 - 2026.04",
-          "project_name": "AI智能搜索平台(React)",
-          "project_role": "主要开发",
-          "project_desc": "面向高校的一站式 AI 数据检索与分析平台，整合校内新闻、教务等异构数据，提供智能问答、AI 总结、语音播报及业务办理服务。项目已落地南大、复旦、人大等顶尖高校，有效提升了师生获取信息的效率。",
-          "project_content": "\nAI 交互与渲染： 基于 ws 实现大模型流式输出，设计打字机效果与防抖策略，显著提升了 AI 生成内容的j交互体验。\n\n高性能可控播放器：使用rAF替代timeout 实现高精度播放进度状态同步，配合 EventEmitter 独立分发时间事件，并以 Context + 原子 UI 组件解耦播放器的状态层与视图层，实现高帧率可复用的毫秒级的动画音频同步系统。\n\n数据渲染性能优化： 针对海量搜索结果渲染瓶颈，设计“组件+数据源双重缓存”机制，结合异步分片渲染策略，在保证交互流畅度的前提下，实现了千级数据列表的秒级响应。\n\n主题工程化： 采用 Antd Style + CSS Variables 构建动态主题引擎，支持运行时零刷新换肤；设计基于 Context 的单向数据流管理搜索全生命周期状态，解决了复杂异步场景下的状态竞争问题。\n\n",
-          "dataIndex": 0
-        },
-        {
-          "project_name": "校园融媒体平台(React)",
-          "project_role": "主要开发",
-          "project_time": "2024.08,2024.12",
-          "project_desc": "构建集内容生产、分发、风控与数据洞察于一体的校园新媒体管理平台。建立统一的多模态内容库，通过对接抖音、B站、微博等主流平台API，实现了跨平台内容的一键分发与定时策略管理。集成AI智能风控体系（敏感词过滤、评论情绪识别），确保校园舆论安全；基于多维数据指标构建账号影响力算法模型，为高校新媒体运营提供可视化的数据决策支持",
-          "project_content": "\n一站式多端分发：主导抖音、微博、B站、腾讯云点播等主流媒体的深度接入，针对B站大文件上传场景，设计分片并发+断点续传策略，解决了弱网环境下上传失败率高的问题。\n\n高性能可视化报表：基于ApexCharts构建企业级数据仪表盘，封装高复用性的Vue/React图表组件库。数据降采样与虚拟滚动策略，解决了万级数据点在时间轴缩放时的渲染卡顿问题。",
-          "dataIndex": 1
-        },
-        {
-          "project_name": "万能表单(React)",
-          "project_role": "主要研发",
-          "project_time": "2023.06 - 2023.12",
-          "project_desc": "基于React与JSON Schema构建可配置表单系统，封装高复用组件库，支持可视化拖拽编辑与实时预览，实现复杂业务表单的低代码搭建。",
-          "project_content": "\n核心表单编辑器研发：设计并实现可视化表单编辑器，抽象并封装了包括静态标签（Label）、各类输入控件在内的高复用组件库，为业务功能的快速扩展提供底层支撑。\n\n微前端架构落地：引入Module Federation技术重构应用架构，实现了子应用的独立开发与部署，有效解决了代码耦合问题，提升了系统的可维护性与扩展性。",
-          "dataIndex": 2
-        },
-        {
-          "project_time": "2024.11 - 2025.12",
-          "project_name": "融媒体管理平台-融媒体编辑器(jquery/React)",
-          "project_role": "主要开发",
-          "project_desc": "内容产生：需求源自融媒体的微信文章编辑功能，基于ueditor/lexical实现的富文本编辑器，支持音视频、pdf、word等媒体文件插入预览。支持内容节点定制及工具栏功能扩展。\n流程审核：通过扩展支持审核流程定制，审核人权限定制(如修订和发布)，实现多版本记录及回退。\n资源管理：通过扩展支持了类似微信的封面/配图管理功能。",
-          "project_content": "\n富文本编辑器架构重构： 基于 Lexical 框架深度定制富文本内核，设计自定义节点实现音视频、PDF 等多媒体资源的原子化插入与懒加载；开发 html粘贴清洗插件，自动过滤冗余样式，解决了从 Office 文档复制内容时的格式错乱问题。\n\n编辑器迁移与性能优化： 设计并实现了的可扩展数据转换器解决了HTML 到 JSON 数据模型的转换难题。\n\n三方业务功能扩展：对接腾讯云点播服务，实现视频分片上传与跨端播放器封装，构建了集图文编辑、视频处理于一体的融媒体生产平台。",
-          "dataIndex": 3
-        },
-        {
-          "project_name": "coreplus2.0(React)",
-          "project_role": "前端开发",
-          "project_time": "2023.08 - 2024.08",
-          "project_desc": "面向高校的可视化、低代码流程与应用开发平台。用户只需拖拽，配置组件项即可完成web页面的开发并打包发布的工作。内部集成了完善的流程组件，流程分发，流程处理系统，是针对学校使用场景开发的低代码平台。",
-          "project_content": "\n低代码平台核心迭代：扩展组件的配置项体系与高级代码设置功能，显著提升了组件的定制化能力与开发灵活性。\n\n通用业务组件沉淀：负责低代码编辑器的核心组件库建设，设计并封装了流程历史、多流程审批、高级选择器及数据图表等高复用组件，有效支撑了复杂业务场景的快速搭建。",
-          "dataIndex": 4
-        },
-        {
-          "project_time": "2021.05 - 2023.03",
-          "project_name": "web office4.x(React)",
-          "project_role": "前端开发",
-          "project_desc": "web office是永中软件股份有限公司退出的在线文档编辑器，支持网页端的Word、Excel、PPT的在线编辑，无需安装本地Office或插件。深度兼容微软office引用，支持多人在线协同编辑。",
-          "project_content": "\nWeb Office功能研发：研读微软官方技术文档，确立产品功能规划与落地方案；解析Office文档数据标准，主导Web Office文本菜单栏核心功能的开发。\n\n数字档案管理系统：负责永中数字档案管理系统门户的前端开发，采用SSR（服务端渲染）技术架构，优化首屏加载速度并提升SEO表现。",
-          "dataIndex": 5
-        }
-      ],
-      "workList": [
-        {
-          "work_name": "Aling-Raing",
-          "work_desc": "一个基于Rain Effect重构的typescript版本WebGL 的雨滴效果库。",
-          "visit_link": "https://github.com/ZhongFarewell/aling-raining"
-        },
-        {
-          "work_name": "ZhongFarewell",
-          "work_desc": "基于next.js构建的SSR个人站点，inspired by vuepress-theme-gungnir。",
-          "visit_link": "https://www.zhongfw.online",
-          "dataIndex": 1
-        }
-      ],
-      "aboutme": {
-        "aboutme_desc": "作为开发：深究实践原理，创新实践方法，保障实践质量。"
-      },
-      "theme": {
-        "color": "#2f5785",
-        "tagColor": "#8bc34a"
-      }
+      "school": "商丘师范学院",
+      "major": "电子信息工程",
+      "academic_degree": "本科",
+      "dataIndex": 0
     }
+  ],
+  "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2020",
+      "dataIndex": 0
+    }
+  ],
+  "workExpList": [
+    {
+      "company_name": "苏迪科技有限公司",
+      "department_name": "研发部门",
+      "work_time": [
+        "2023.05",
+        "2026.04"
+      ],
+      "work_desc": "1. AI智能搜索平台：负责高校 AI 搜索与智能问答平台前端架构设计，完成 AI 流式交互、多源搜索、动态部署等核心能力建设。\n2. 富媒体编辑器：负责基于 React/Lexical 的企业级文档编辑引擎开发，设计插件化架构、内容模型及复杂交互能力。\n3. 低代码及业务平台：参与低代码平台、校园融媒体平台等企业级系统建设，负责核心组件、业务模块及性能优化。",
+      "dataIndex": 0
+    },
+    {
+      "company_name": "永中软件股份有限公司",
+      "department_name": "wo4.x产品部",
+      "work_time": [
+        "2021.05",
+        "2023.03"
+      ],
+      "work_desc": "前端开发工程师，参与 Web Office 4.x 在线文档系统研发，负责文档编辑、功能模块开发及数字档案管理系统建设。深入分析 Office 文档规范，参与产品功能设计与技术方案制定。",
+      "dataIndex": 1
+    }
+  ],
+  "skillList": [
+    {
+      "skill_name": "React / TypeScript",
+      "skill_level": 100,
+      "skill_desc": "深入使用 React 技术体系进行复杂应用开发，熟悉 Hooks、Context、React Router、Next.js SSR/RSC 等生态方案，具备大型前端应用架构设计经验。",
+      "dataIndex": 0
+    },
+    {
+      "skill_name": "AI应用开发",
+      "skill_level": 90,
+      "skill_desc": "具备 LLM 应用开发经验，熟悉 SSE/WebSocket 流式通信、AI 内容生成、Markdown/AST 渲染、模型输出状态管理等前端工程方案。",
+      "dataIndex": 1
+    },
+    {
+      "skill_name": "复杂前端架构",
+      "skill_level": 95,
+      "skill_desc": "具备富文本编辑器、低代码平台、复杂交互系统开发经验，熟悉插件化架构、状态管理设计、性能优化及组件体系建设。",
+      "dataIndex": 2
+    },
+    {
+      "skill_name": "Node.js全栈开发",
+      "skill_level": 90,
+      "skill_desc": "熟悉 Node.js 服务端开发，具备 Egg.js + MongoDB + Redis + MinIO 架构设计经验，能够独立完成接口、权限、缓存、实时通信及部署运维。",
+      "dataIndex": 3
+    },
+    {
+      "skill_name": "工程化",
+      "skill_level": 85,
+      "skill_desc": "熟悉 Vite/Webpack 构建体系，具备 TypeScript 工程实践、组件库开发、npm 包发布及前端性能优化经验。",
+      "dataIndex": 4
+    }
+  ],  "projectList": [
+    {
+      "project_time": "2025.09 - 2026.04",
+      "project_name": "AI智能搜索平台（AI Search Web）",
+      "project_role": "核心开发",
+      "project_desc": "面向高校的一站式 AI 搜索与智能问答平台，融合大模型对话与多源数据联邦搜索能力，支持新闻、文档、服务等多类型数据检索，并通过一套代码支持多高校独立部署。",
+      "project_content": "AI 流式交互架构：设计 SSE/WebSocket 双通道通信方案，实现 AI 回复实时输出、主动停止、自动重连及模型思考过程解析，支持 DeepSeek、Qwen 等模型输出格式。\n\n多环境部署架构：设计运行时配置体系，通过 APP_CONFIG 实现 API、主题、搜索类型等动态配置，支持一次构建、多高校部署。\n\n复杂状态管理：针对 AI 长文本生成场景，采用归一化消息结构管理对话数据，结合增量更新机制降低频繁渲染压力，解决流式输出过程中的状态同步问题。\n\n搜索与渲染优化：设计配置驱动的联邦搜索框架，支持多内容源动态扩展；构建 Markdown/AST 渲染管线，支持数学公式、代码高亮、Mermaid 图表等复杂内容展示。",
+      "dataIndex": 0
+    },
+    {
+      "project_time": "2024.11 - 2025.12",
+      "project_name": "富媒体文档编辑引擎（Lexical Editor）",
+      "project_role": "核心开发",
+      "project_desc": "基于 React + Lexical 构建企业级富媒体文档编辑系统，支持图文、表格、多媒体、代码、AI 辅助写作等复杂内容编辑场景。",
+      "project_content": "编辑器架构设计：设计 EditorState、业务 Context、HistoryContext 三层状态模型，分离编辑核心状态与业务逻辑；基于 Command Pattern 构建插件化架构，实现 20+ 功能插件独立扩展。\n\n编辑模型扩展：基于 Lexical Node Replacement 机制扩展核心节点，实现自定义节点、Office 内容粘贴解析、文本样式还原以及 HTML/JSON 双向转换。\n\nAI 编辑能力：集成 SSE 流式 AI 能力，实现内容生成、主动中断及多种智能编辑场景；通过策略模式抽象 AI 请求流程，提高功能扩展能力。\n\n复杂交互优化：实现动态工具栏、表格系统、拖拽排序、源码/可视化双模式编辑，并结合 React.lazy、Web Worker、事件优化提升编辑体验。",
+      "dataIndex": 1
+    },
+    {
+      "project_time": "2021 - 至今",
+      "project_name": "Align 全栈内容平台",
+      "project_role": "独立设计与开发",
+      "project_desc": "独立设计并长期维护的全栈内容平台，采用 Next.js + Egg.js 架构，实现内容管理、实时通信、权限控制、对象存储、自动部署等完整业务能力。",
+      "project_content": "系统架构设计：搭建 Next.js SSR 前端、Egg.js 服务端及 MongoDB、Redis、MinIO 数据体系，实现完整前后端分离架构。\n\n实时通信系统：基于 Socket.IO 实现在线状态、消息通知、好友系统及协作能力，结合 Redis 设计访客在线状态管理机制。\n\n内容系统建设：自研 MDX 内容处理流程，实现文章解析、代码展示、图片资源迁移及自动化发布部署。\n\n性能与工程优化：通过 Redis 缓存、MongoDB 索引优化、图片缩略图处理及服务端优化提升系统稳定性，项目持续运行多年。",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2021.05 - 2023.03",
+      "project_name": "Web Office 4.x 在线文档系统",
+      "project_role": "前端开发",
+      "project_desc": "参与在线 Office 文档编辑系统研发，支持 Word、Excel、PPT 在线编辑及多人协同办公，是公司核心产品之一。",
+      "project_content": "负责 Web Office 核心功能开发，参与文档编辑能力建设及 Office 文档规范分析；\n\n深入研究微软 Office 文件格式和交互设计，参与产品功能规划与技术方案制定；\n\n负责数字档案管理系统前端开发，采用 SSR 架构优化首屏加载速度及搜索引擎表现。",
+      "dataIndex": 3
+    },
+    {
+      "project_time": "2023.06 - 2024.08",
+      "project_name": "CorePlus低代码开发平台",
+      "project_role": "核心开发",
+      "project_desc": "面向高校场景的低代码应用开发平台，支持通过拖拽配置快速构建业务页面、流程和管理系统。",
+      "project_content": "负责低代码编辑器核心能力建设，设计并开发通用业务组件及配置体系，提高业务页面搭建效率。\n\n参与流程、表单、图表等高复用组件建设，抽象复杂业务能力形成标准化模块。\n\n参与微前端架构改造，通过 Module Federation 优化应用扩展能力和团队协作效率。",
+      "dataIndex": 4
+    }
+  ],  "workList": [
+    {
+      "work_name": "Aling-Raining",
+      "work_desc": "基于 TypeScript 与 WebGL 实现的雨滴效果库，重新设计 Rain Effect 渲染流程，实现浏览器端实时粒子动画效果。",
+      "visit_link": "https://github.com/ZhongFarewell/aling-raining",
+      "dataIndex": 0
+    },
+    {
+      "work_name": "ZhongFarewell Personal Site",
+      "work_desc": "基于 Next.js 构建的个人技术站点，采用 SSR 架构，集成 MDX 内容系统、代码展示、国际化及自定义主题能力。",
+      "visit_link": "https://www.zhongfw.online",
+      "dataIndex": 1
+    }
+  ],
+  "aboutme": {
+    "aboutme_desc": "具备复杂 Web 应用架构设计与落地经验，专注 React/TypeScript 技术体系。拥有 AI 应用、富文本编辑器、全栈系统建设经验，能够独立完成从前端架构设计、服务端开发到数据存储和部署运维的完整链路。关注技术原理与工程质量，擅长解决复杂交互、性能优化及系统架构问题。"
+  },
+  "theme": {
+    "color": "#2f5785",
+    "tagColor": "#8bc34a"
+  }
+}
